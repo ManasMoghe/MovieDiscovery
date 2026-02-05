@@ -7,14 +7,6 @@ conditional rendering to deliver a smooth user experience.
 
 ------------------------------------------------------------------------
 
-## Live Demo
-
-(Add after deployment)
-
-https://your-vercel-link.vercel.app
-
-------------------------------------------------------------------------
-
 ## Features
 
 -   Real-time movie search\
