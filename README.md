@@ -85,8 +85,8 @@ consistent user experience.
 
 ## Future Improvements
 
--   Add movie detail view\
--   Implement genre filtering\
+-   Add movie detail view
+-   Implement genre filtering
 -   Improve mobile responsiveness
 
 ------------------------------------------------------------------------
