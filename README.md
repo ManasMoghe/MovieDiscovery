@@ -9,12 +9,12 @@ conditional rendering to deliver a smooth user experience.
 
 ## Features
 
--   Real-time movie search\
--   Debounced API calls to reduce unnecessary requests\
--   Dynamic rendering using React Hooks\
--   Loading state indicators\
--   Fallback handling for missing posters\
--   Responsive grid layout\
+-   Real-time movie search
+-   Debounced API calls to reduce unnecessary requests
+-   Dynamic rendering using React Hooks
+-   Loading state indicators
+-   Fallback handling for missing posters
+-   Responsive grid layout
 -   Clean and minimal UI
 
 ------------------------------------------------------------------------
